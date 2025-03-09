@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hi 👋, I'm Natnael Birhanu</h1>
 <h3 align="center">A passionate full stack developer from Ethiopia</h3>
 
-- 🔭 I’m currently working on [safeDigis invitation system and eduLink](https://github.com/chapaedb/Kuraz-Tutor, https://github.com/NathanielBirhanu/InvitationCard)
+- 🔭 I’m currently working on [safeDigis invitation system and eduLink](https://github.com/NathanielBirhanu/InvitationCard, https://github.com/chapaedb/Kuraz-Tutor)
 
 - 🌱 I’m currently learning **Machine Learning**
 
