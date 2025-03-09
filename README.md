@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 💬 Ask me about **react, nodejs(express), mongoDB, REST APIS**
+- 💬 Ask me about **React, React Native, Node.js, Express JS, Flask, mongoDB, REST APIS**
 
 - 📫 How to reach me **nbirhanu98@gmail.com**
 
